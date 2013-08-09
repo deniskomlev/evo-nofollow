@@ -11,5 +11,5 @@ Usage:
 
 &whitelist=Friendly domains;text;example.com,test.com
 
-where "example.com,test.com" is a list of external domains which should not be affected
-by the plugin.
+where "example.com,test.com" is a list of external domains which should not be 
+affected by the plugin.
